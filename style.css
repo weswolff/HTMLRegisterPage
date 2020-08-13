@@ -1,0 +1,27 @@
+body{
+    background-color: #5ebff7;
+    padding:0;
+    margin:0;
+}
+
+#nav{
+    background-color: white;
+    height: 50px;
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+
+button{
+    float: right;
+    margin-top: 15px;
+    margin-right: 15px;
+    background-color: #5ebff7;
+}
+
+.signUp{
+    margin: auto;
+    width: 30%;
+    padding-top: 10%;
+    background-color: white;
+    }
